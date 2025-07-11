@@ -9,7 +9,7 @@ Azure-account is aangemaakt.
 
 Resourcegroep is aangemaakt: StudentAliBuyukgural_RG
 
-Virtuele machine is aangemaakt: StudentAliBuyukguralVM (Ubuntu Server 20.04)
+Virtuele machine is aangemaakt: StudentAliBuyukguralVM 
 
 VM-verbinding: Succesvolle verbinding via SSH tot stand gebracht.
 
