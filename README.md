@@ -1,4 +1,4 @@
-Azure Virtual Machine Installatie (Met Gratis Account)
+#Azure Virtual Machine Installatie (Met Gratis Account)
 Dit project omvat het opzetten van een virtuele machine op Microsoft Azure met een gratis account en het gebruik van Azure Bestandsdeling.
 
 👨‍🎓 Studentinformatie
